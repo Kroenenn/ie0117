@@ -1,3 +1,3 @@
 # IE0117
 
-## Programación Bajo Plataformas abierts
+## Programación Bajo Plataformas abiertas
